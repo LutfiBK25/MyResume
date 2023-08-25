@@ -5,4 +5,4 @@ I have to write the documentation for the backend and frontend and what needs to
 - Website (Website template was used from StyleShout.com)
 - Need to get hired to make it fancier LOL
 ## Back End
-- Visitor Counter
+- Visitor Counter (This is it)
